@@ -1,0 +1,8 @@
+main: me.ferretfrenzy.SkyblockXtra.Main
+name: SkyblockXtra
+version: 1.0.0
+author: FerretFrenzy_Devs
+api-version: 1.16
+
+commands:
+  sbX_Status:
