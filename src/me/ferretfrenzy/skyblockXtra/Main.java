@@ -1,4 +1,4 @@
-package me.ferretfrenzy.SkyblockXtra;
+package me.ferretfrenzy.skyblockXtra;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
